@@ -1,6 +1,6 @@
 # maytinhtay
 
-A new Flutter project.
+Công cụ giúp bạn tính toán với giao diện đơn giản dễ sử dụng.
 
 ## Getting Started
 
